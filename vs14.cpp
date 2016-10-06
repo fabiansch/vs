@@ -19,3 +19,7 @@ void caf_main(actor_system& sys, const config& cfg) {
 }
 
 CAF_MAIN(io::middleman)
+
+
+//  ./build/vs14
+//  ./build/vs14 --message=Hi
